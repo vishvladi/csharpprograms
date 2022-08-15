@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.deps.json
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.runtimeconfig.json
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.dll
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.pdb
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.AssemblyInfo.cs
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.dll
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/refint/Examples006_Base.dll
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.pdb
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.genruntimeconfig.cache
+/Users/macbookpro/Documents/Программирование/Examples/Examples006_Base/obj/Debug/net6.0/ref/Examples006_Base.dll
