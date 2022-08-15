@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/bin/Debug/net6.0/Example005_Conditionifelse
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/bin/Debug/net6.0/Example005_Conditionifelse.deps.json
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/bin/Debug/net6.0/Example005_Conditionifelse.runtimeconfig.json
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/bin/Debug/net6.0/Example005_Conditionifelse.dll
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/bin/Debug/net6.0/Example005_Conditionifelse.pdb
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.AssemblyInfo.cs
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.dll
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/refint/Example005_Conditionifelse.dll
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.pdb
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/Example005_Conditionifelse.genruntimeconfig.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example005_Conditionifelse/obj/Debug/net6.0/ref/Example005_Conditionifelse.dll
