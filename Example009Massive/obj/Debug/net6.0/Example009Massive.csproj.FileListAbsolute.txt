@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.AssemblyInfo.cs
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/bin/Debug/net6.0/Example009Massive
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/bin/Debug/net6.0/Example009Massive.deps.json
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/bin/Debug/net6.0/Example009Massive.runtimeconfig.json
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/bin/Debug/net6.0/Example009Massive.dll
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/bin/Debug/net6.0/Example009Massive.pdb
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.dll
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/refint/Example009Massive.dll
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.pdb
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/Example009Massive.genruntimeconfig.cache
+/Users/macbookpro/Documents/Программирование/Examples/Example009Massive/obj/Debug/net6.0/ref/Example009Massive.dll
